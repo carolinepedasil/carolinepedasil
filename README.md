@@ -1,6 +1,8 @@
 <div align="center">
+<img align="right" src="https://i.imgur.com/fUGoMZD.png">
 <p> Oi! Eu sou a Carol! 👋🏻 </p>
-<p> Sou estudante de Análise e Desenvolvimento de Sistemas! 💻 </p>
+<p> Sou estudante de Análise e Desenvolvimento de Sistemas! 🖥 </p>
+<p> Apaixonada por programação! 💻 </p>
 <p> Aspirante a ser uma Desenvolvedora Full Stack! 📚 </p>
 <p> Atualmente estou aprendendo Swift (iOS) nas horas vagas! 📱 </p>
 </div>
@@ -40,7 +42,7 @@
 </div>
 
 # GitHub Stats
- 
+
 <div align="center">
   <a href="https://github.com/carolinepedasil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinepedasil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
