@@ -1,5 +1,4 @@
 <div align="center">
-<img align="right" src="https://i.imgur.com/fUGoMZD.png">
 <p> Oi! Eu sou a Carol! 👋🏻 </p>
 <p> Sou estudante de Análise e Desenvolvimento de Sistemas! 🖥 </p>
 <p> Apaixonada por programação! 💻 </p>
