@@ -1,9 +1,8 @@
 <div align="center">
-<p> Oi! Eu sou a Carol! 👋🏻 </p>
-<p> Sou estudante de Análise e Desenvolvimento de Sistemas! 🖥 </p>
-<p> Apaixonada por programação! 💻 </p>
-<p> Aspirante a ser uma Desenvolvedora Full Stack! 📚 </p>
-<p> Atualmente estou aprendendo Swift (iOS) nas horas vagas! 📱 </p>
+ <p> Oi! Eu sou a Carol 👋🏻 </p>
+ <p> Sou estudante de Análise e Desenvolvimento de Sistemas 🖥 </p>
+ <p> Estou sempre participando de cursos, eventos e bootcamps de programação para aprimorar minhas habilidades 📖 </p>
+ <p> Estudo diariamente para me manter sempre atualizada com novas tecnologias do mercado 📚 </p>
 </div>
 
 # Habilidades Básicas
@@ -36,13 +35,6 @@
 <div>
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
- 
-# IDEs Utilizadas
-
-<div>
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
- <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-</div>
 
 # Contato
 
@@ -58,13 +50,5 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carolinepedasil&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinepedasil&layout=compact&langs_count=7&theme=dracula"/>
- 
-</div>
-  
-##
-  
-<div align="center">
- 
-  ![Snake animation](https://github.com/carolinepedasil/carolinepedasil/blob/output/github-contribution-grid-snake.svg)
  
 </div>
