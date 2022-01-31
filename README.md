@@ -1,10 +1,3 @@
-<div align="center">
- <p> Oi! Eu sou a Carol 👋🏻 </p>
- <p> Sou estudante de Análise e Desenvolvimento de Sistemas 🖥 </p>
- <p> Estou sempre participando de cursos, eventos e bootcamps de programação para aprimorar minhas habilidades 📖 </p>
- <p> Estudo diariamente para me manter sempre atualizada com novas tecnologias do mercado 📚 </p>
-</div>
-
 # Habilidades Básicas
 
 <li> Front End </li>
