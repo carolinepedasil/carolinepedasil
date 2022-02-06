@@ -19,11 +19,6 @@
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<li> Mobile </li> 
-<div>
- <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-</div>
-
 <li> Version Control </li>
 <div>
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -42,6 +37,6 @@
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carolinepedasil&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinepedasil&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinepedasil&layout=compact&langs_count=8&theme=dracula"/>
  
 </div>
