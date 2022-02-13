@@ -1,4 +1,15 @@
-# Habilidades Básicas
+<div align="center">
+  <p> Oi! Eu sou a Carol 👋🏻 </p>
+  <br>
+  <p> Sou estudante de Análise e Desenvolvimento de Sistemas 🖥 </p>
+  <p> Atualmente estou focando em aperfeiçoar minhas habilidades de:
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">e 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
+   
+</div>
+<br>
+
+## Outras Habilidades Básicas:
 
 <li> Front End </li>
 <div>
@@ -24,19 +35,19 @@
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-# Contato
+## Contato:
 
 <div> 
   <a href="https://www.linkedin.com/in/carolinepedasil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:carolinepedasil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-# GitHub Stats
+## GitHub Stats:
 
 <div align="center">
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carolinepedasil&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinepedasil&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinepedasil&layout=compact&langs_count=8&theme=dracula"/>
  
 </div>
