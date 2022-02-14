@@ -2,7 +2,7 @@
   <p> Oi! Eu sou a Carol 👋🏻 </p>
   <br>
   <p> Sou estudante de Análise e Desenvolvimento de Sistemas 🖥 </p>
-  <p> Atualmente estou focando em aperfeiçoar minhas habilidades de:
+  <p> Atualmente estou focando em aperfeiçoar as habilidades de:
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">e 
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
    
