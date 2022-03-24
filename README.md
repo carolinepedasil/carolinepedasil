@@ -9,7 +9,7 @@
 </div>
 <br>
 
-## Outras Habilidades Básicas:
+## Habilidades Básicas:
 
 <li> Back End </li> 
 <div>
