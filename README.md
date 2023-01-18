@@ -11,6 +11,6 @@
   
  [![GitHub Streak](https://streak-stats.demolab.com/?user=carolinepedasil&theme=dracula)](https://git.io/streak-stats)
   
- [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=carolinepedasil&layout=compact&langs_count=6&theme=dracula&hide=c)](https://github.com/carolinepedasil/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinepedasil&layout=compact&langs_count=6&theme=dracula&hide=c)](https://github.com/carolinepedasil/github-readme-stats)
  
 </div>
